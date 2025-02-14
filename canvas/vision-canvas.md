@@ -3,9 +3,9 @@ LiveDoc - Product Canvas: Vision statement
 For information on how to edit and maintain this file, please visit: developer.qed.qld.gov.au/LiveDoc-Canvas
 -->
 ---
-canvas-type: roadmap-statement
-style-renderer: https://developer.qed.qld.gov.au/livedoc/style.yaml 
-title: test roadmap statement
+canvas-type: vision-statement
+style-renderer: https://developer.qed.qld.gov.au/livedoc/style.yaml
+title: test vision statement
 
 ---
 For [Developers]

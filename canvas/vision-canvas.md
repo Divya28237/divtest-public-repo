@@ -5,7 +5,7 @@ For information on how to edit and maintain this file, please visit: developer.q
 ---
 canvas-type: vision-statement
 style-renderer: canvas/styles/vision.yml
-title: test vision statement
+title: vision statement
 
 ---
 For [Developers]

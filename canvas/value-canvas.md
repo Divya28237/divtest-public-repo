@@ -7,71 +7,75 @@ canvas-type: value-proposition
 title: Value canvas
 ---
 # Value
-[Colour] #ED7D31
-[Icon] fas fa-gift
+[Colour] #ED7D31  
+[Icon] fas fa-gift  
+
 ## Services
-[BackColour] #FDF3EB
-[Colour] #ED7D31
-[Icon] fa-solid fa-bell-concierge
+[BackColour] #FDF3EB  
+[Colour] #ED7D31  
+[Icon] fa-solid fa-bell-concierge  
+
 ### Primary functions
-- Standards & practices			
-- Style guides
-- API visibility
+- Centralized documentation  
+- Collaboration tools  
+- API visibility  
 
 ## Pain relief
-[BackColour] #FAE8D8
-[Colour] #ED7D31
-[Icon] fa-solid fa-plus
+[BackColour] #FAE8D8  
+[Colour] #ED7D31  
+[Icon] fa-solid fa-plus  
+
 ### How pain is reduced
-- Clear, concise, timely and accurate information
-- Open and responsive tools
-- Rapid feedback and support tools
-- Live support
+- Clear, concise, and well-structured documentation  
+- Interactive API testing environment  
+- Real-time collaboration features  
+- Automated documentation updates  
 
 ## Gain creators
-[BackColour] #FDF3EB
-[Colour] #ED7D31
-[Icon] fa-solid fa-arrow-trend-up
+[BackColour] #FDF3EB  
+[Colour] #ED7D31  
+[Icon] fa-solid fa-arrow-trend-up  
+
 ### Exciting new benefits
-- Open sandbox and Test harnessing
-- Smart support bots
-- Downloadable boilerplates
-- Supportive community
-- Production-readiness tools
-- Self-serve compliance tests
+- Live documentation previews  
+- AI-powered support assistant  
+- Interactive testing and sandboxing  
+- Ready-to-use templates  
+- Continuous feedback integration  
 
 # Customer
-[Colour] #0091C7
-[Icon] fas fa-user
+[Colour] #0091C7  
+[Icon] fas fa-user  
+
 ## Jobs
-[BackColour] #EBF4F9
-[Colour] #0091C7
-[Icon] fa-solid fa-list-check
+[BackColour] #EBF4F9  
+[Colour] #0091C7  
+[Icon] fa-solid fa-list-check  
+
 ### Tasks I need to do
-- View requirements
-- Connect to APIs
-- Manage my account
-- Test my product
-- Check compatibility
+- Access product documentation  
+- View API specifications  
+- Manage project configurations  
+- Validate data structures  
 
 ## Pain points
-[BackColour] #D9E9F3
-[Colour] #0091C7
-[Icon] fa-regular fa-face-frown-open
+[BackColour] #D9E9F3  
+[Colour] #0091C7  
+[Icon] fa-regular fa-face-frown-open  
+
 ### Things that frustrate me
-- Vague standards
-- Unavailable services
-- Slow response
-- Lack of tools
-- Moving goalposts
+- Outdated documentation  
+- Lack of search functionality  
+- Unclear API responses  
+- Long feedback cycles  
 
 ## Gains
-[BackColour] #EBF4F9
-[Colour] #0091C7
-[Icon] fa-regular fa-face-smile
+[BackColour] #EBF4F9  
+[Colour] #0091C7  
+[Icon] fa-regular fa-face-smile  
+
 ### Benefits I'd welcome
-- Self-serve review
-- Accurate sandbox
-- Fast, transparent support
-- industry-ready scaffolding
-- Community connection
+- Real-time updates  
+- Smart search and filtering  
+- Seamless API integration  
+- Faster issue resolution  

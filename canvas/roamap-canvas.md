@@ -30,29 +30,7 @@ For information on how to edit and maintain this file, please visit: developer.q
 ### Transform
 
 
-# Q3
-[BackColour] #00838F
-## Operational task
-[BackColour] #1C90C8
-### Run
-## Operational task
-[BackColour] #1C90C8
-### Run
-## Major initiative
-[BackColour] #ED7D31
-### Transform
 
-# Q4
-[BackColour] #00838F
-## Operational task
-[BackColour] #1C90C8
-### Run
-## Operational task
-[BackColour] #1C90C8
-### Run
-## Major initiative
-[BackColour] #ED7D31
-### Transform
 -->
 ---
 canvas-type: roadmap-release
@@ -70,12 +48,4 @@ title: Product Release Roadmap 2025
 - [Grow] Exciting feature
 - [Transform] Major initiative
 
-# Q3
-- [Run] Operational task
-- [Run] Operational task
-- [Transform] Major initiative
 
-# Q4
-- [Run] Operational task
-- [Run] Operational task
-- [Transform] Major initiative

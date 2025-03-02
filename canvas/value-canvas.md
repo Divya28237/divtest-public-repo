@@ -18,17 +18,7 @@ title: Value canvas
 - Style guides
 - API visibility
 
-## Gain creators
-[CssClass] canvas-primary-back-variant-1
-[Colour] #ED7D31
-[Icon] fa-solid fa-arrow-trend-up
-### Exciting new benefits
-- Open sandbox and Test harnessing
-- Smart support bots
-- Downloadable boilerplates
-- Supportive community
-- Production-readiness tools
-- Self-serve compliance tests
+
 
 # Customer
 [Colour] #0091C7
@@ -44,13 +34,3 @@ title: Value canvas
 - Test my product
 - Check compatibility
 
-## Pain points
-[CssClass] canvas-secondary-back-variant-2
-[Colour] #0091C7
-[Icon] fa-regular fa-face-frown-open
-### Things that frustrate me
-- Vague standards
-- Unavailable services
-- Slow response
-- Lack of tools
-- Moving goalposts

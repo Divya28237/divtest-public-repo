@@ -18,7 +18,7 @@ canvas-type: metric-okrs
 title: Metrics for success
 
 ---
-# OKR test1
+# OKR
 [Objective] Provide useful standards and resources for internal teams
 - [KeyResult] Onboarding members from 3 different teams
 - [KeyResult] Growing our membership to over 20 members
@@ -27,7 +27,7 @@ title: Metrics for success
 - [KeyResult] Growing our membership to over 20 members
 - [KeyResult] Posting 20 Standards/Best practice documents
 
-# OKR test2
+# OKR
 [Objective] Provide an alternative, reliable test harness suite for internal testing
 - [KeyResult] Engaging with 1 internal team to understand their needs
 - [KeyResult] Providing 2+ endpoints they can use for test harnessing
@@ -35,7 +35,7 @@ title: Metrics for success
 - [KeyResult] Growing our membership to over 20 members
 - [KeyResult] Posting 20 Standards/Best practice documents
 
-# OKR test3
+# OKR
 [Objective] Provide a low friction method of presenting product worksheets
 - [KeyResult] Providing 2+ product canvas worksheets via markdown
 - [KeyResult] See 2 products being represented by the canvases

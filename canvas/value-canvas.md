@@ -7,11 +7,11 @@ canvas-type: value-proposition
 title: Value canvas
 ---
 # Value
-[Colour] #ED7D31
+[Colour] #28A745
 [Icon] fas fa-gift
 ## Services Offered
-[CssClass] canvas-primary-back-variant-1
-[Colour] #ED7D31
+[CssClass] canvas-primary-back-variant-2
+[Colour] #28A745
 [Icon] fa-solid fa-bell-concierge
 ### Key Features
 - Standards & practices			
@@ -19,13 +19,12 @@ title: Value canvas
 - API visibility
 - Developer documentation
 
-
 # Customer
-[Colour] #0091C7
+[Colour] #D63384
 [Icon] fas fa-user
 ## Jobs to Be Done
-[CssClass] canvas-secondary-back-variant-1
-[Colour] #0091C7
+[CssClass] canvas-secondary-back-variant-2
+[Colour] #D63384
 [Icon] fa-solid fa-list-check
 ### My Core Tasks
 - View requirements
@@ -34,5 +33,3 @@ title: Value canvas
 - Test my product
 - Check compatibility
 - Automate processes
-
-

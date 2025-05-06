@@ -15,9 +15,9 @@ title: Value canvas
 [Icon] fa-solid fa-bell-concierge
 ### Key Features
 - Standards & practices			
-- Style guides
-- API visibility
-- Developer documentation
+- Style guides Updated
+- API visibility updated
+- Developer documentation updated
 
 # Customer
 [Colour] #D63384
@@ -27,9 +27,9 @@ title: Value canvas
 [Colour] #D63384
 [Icon] fa-solid fa-list-check
 ### My Core Tasks
-- View requirements
-- Connect to APIs
-- Manage my account
-- Test my product
-- Check compatibility
-- Automate processes
+- View requirements updated
+- Connect to APIs updated
+- Manage my account updated
+- Test my product updated
+- Check compatibility updated
+- Automate processes updated

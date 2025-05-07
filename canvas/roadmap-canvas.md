@@ -10,7 +10,7 @@
  - [Grow] LiveDoc auto-code dependancy scan
  - [Run] Test-harness data
  - [Grow] Readiness Explorer - NFR
-   - [Milestone] Streamlined MSA
+- [Milestone] Streamlined MSA
  
  # NEXT
  - [Run] Tracking/reporting

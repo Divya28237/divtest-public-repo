@@ -4,11 +4,11 @@
  
  ---
  # NOW
- - [Run] Membership, Posting & Feedback
- - [Run] Standards publishing
+   - [Run] Membership, Posting & Feedback
+   - [Run] Standards publishing
  - [Run] LiveDoc auto-code review 
  - [Grow] LiveDoc auto-code dependancy scan
- - [Run] Test-harness data
+   - [Run] Test-harness data
  - [Grow] Readiness Explorer - NFR
 - [Milestone] Streamlined MSA
  

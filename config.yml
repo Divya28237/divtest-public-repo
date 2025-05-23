@@ -18,6 +18,7 @@ database:
   password: "secret123"
   name: "myapp_db"
 
+// Important! something that is important
 logging:
   level: "debug"
   file: "/var/log/myapp.log"
@@ -33,8 +34,8 @@ users:
     role: "guest"
     active: false
 
-// $livedoc$ This is where the magic happens...
 features:
+  // $livedoc$ something to be added to livedoc
   authentication: true
   notifications: true
   payments: false

@@ -33,6 +33,7 @@ users:
     role: "guest"
     active: false
 
+// $livedoc$ This is where the magic happens...
 features:
   authentication: true
   notifications: true

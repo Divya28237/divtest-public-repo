@@ -1,4 +1,35 @@
-Notes: 
+/* $livedoc$ multiline comment
+This CSS styles the main layout
+Includes container, header, and button styles
+Applies across all responsive breakpoints
+*/
 
-// Important! This file is important //
- // $livedoc$ test is for Livedoc //
+/* Container styling */
+.container {
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+// $livedoc$ Style for the main header
+.header {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+// $livedoc$ Primary button styling
+.button-primary {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+// Important! This is one of the core styles for user interaction
+.button-primary:hover {
+  background-color: #45a049;
+}
+

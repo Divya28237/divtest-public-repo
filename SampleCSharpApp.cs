@@ -1,23 +1,33 @@
+/* $livedoc$ multiline comment
+This is a sample C# program demonstrating LiveDoc-style comments.
+It includes startup configuration, a greeting method, and basic output.
+Useful for onboarding developers or generating docs automatically.
+*/
+
 using System;
 
-namespace SampleCSharpApp
+namespace DivtestPublicRepo
 {
     class Program
     {
-        // Main method is the entry point of a C# application
+        // $livedoc$ Entry point of the application
         static void Main(string[] args)
         {
-            // Declare a variable
-            string name = "John";
-            
-            // Call the Greet method and pass the name
-            Greet(name);
+            // Important! Application starts here
+            Console.WriteLine("Starting the Nutella Project Setup...");
+
+            // $livedoc$ Call greeting method
+            GreetUser("Developer");
+
+            // $livedoc$ Display next steps
+            Console.WriteLine("Clone the repo: git clone https://github.com/your-org/divtest-public-repo.git");
+            Console.WriteLine("Run: dotnet build && dotnet run");
         }
 
-        // A method that takes a string parameter and prints a greeting message
-        static void Greet(string personName)
+        // $livedoc$ Method to greet the user
+        static void GreetUser(string name)
         {
-            Console.WriteLine("Hello, " + personName + "!");
+            Console.WriteLine($"Hello, {name} 👋");
         }
     }
 }

@@ -1,4 +1,7 @@
-/* CSS Output from SASS */
+/* $livedoc$ multiline comment
+Global body styles for base layout.
+Sets fonts, background, and default text settings.
+*/
 
 body {
   font-family: Arial, sans-serif;
@@ -9,6 +12,11 @@ body {
   font-size: 16px;
 }
 
+/* $livedoc$ multiline comment
+Main container styling for page layout.
+Includes centering and basic card-like appearance.
+*/
+
 .container {
   max-width: 1200px;
   margin: 20px auto;
@@ -17,15 +25,23 @@ body {
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
+// $livedoc$ Header style within container
 .container h1 {
   color: #007bff;
   text-align: center;
 }
 
+// $livedoc$ Paragraph styling
 .container p {
   line-height: 1.6;
   color: #333;
 }
+
+/* $livedoc$ multiline comment
+Primary button used for main actions.
+Styled with a blue background and white text.
+Includes hover effect.
+*/
 
 .button-primary {
   background-color: #007bff;
@@ -38,9 +54,15 @@ body {
   transition: background-color 0.3s ease;
 }
 
+// Important! Hover effect for primary button
 .button-primary:hover {
   background-color: #0056b3;
 }
+
+/* $livedoc$ multiline comment
+Secondary button used for alternative actions.
+Green background with white text.
+*/
 
 .button-secondary {
   background-color: #28a745;
@@ -53,15 +75,18 @@ body {
   transition: background-color 0.3s ease;
 }
 
+// Important! Hover effect for secondary button
 .button-secondary:hover {
   background-color: #218838;
 }
 
+// $livedoc$ Link styling
 a {
   color: #007bff;
   text-decoration: none;
 }
 
+// $livedoc$ Link hover effect
 a:hover {
   text-decoration: underline;
 }

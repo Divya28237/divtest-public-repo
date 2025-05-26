@@ -1,16 +1,12 @@
-/* $livedoc$ multiline comment
-This JSON defines metadata for a city library.
-Includes general library info and a list of book records.
-Useful for frontend display, search, and catalog systems.
-*/
+
 
 {
-  // $livedoc$ Library information
+ 
   "library": {
     "name": "City Library",
     "location": "123 Main St, Anytown, USA",
 
-    // $livedoc$ List of available books
+
     "books": [
       {
         "id": 1,

@@ -1,9 +1,8 @@
-/* $livedoc$ multiline comment
-This PowerShell script sets up the local environment for the Nutella project.
-It clones the repo, navigates into it, installs dependencies (if applicable),
-and starts the application.
-Useful for onboarding and automated setups.   */
-
+# $livedoc$ multiline comment
+# This PowerShell script sets up the local environment for the Nutella project.
+# It clones the repo, navigates into it, installs dependencies (if applicable),
+# and starts the application.
+# Useful for onboarding and automated setups.
 
 Write-Host "Starting Nutella project setup..."
 
@@ -17,7 +16,6 @@ Set-Location -Path "./divtest-public-repo"
 Write-Host "Installing dependencies..."
 npm install
 
-// Important! Run the application
+# Important! Run the application
 Write-Host "Starting the application..."
 npm start
-

@@ -1,9 +1,9 @@
 # divtest-public-repo
 
-/* $livedoc$ multiline comment
+<!-- $livedoc$ multiline comment
 Overview section explaining the purpose of this enhanced README template.
 Encourages DRY practices and invites contributions.
-*/
+-->
 
 ## Overview
 
@@ -28,19 +28,18 @@ Thanks to all the people who have contributed to expanding this template!
 
 ## Getting Started
 
-/* $livedoc$ multiline comment
+<!-- $livedoc$ multiline comment
 Getting Started section explains how to set up the project locally.
 Follow the steps to initialize the project in a developer environment.
-*/
+-->
 
 This is an example of how you may give instructions on setting up your project locally.
 
 To get a local copy up and running follow these simple example steps:
 
 ```bash
-// $livedoc$ Clone the repository
+# $livedoc$ Clone the repository
 git clone https://github.com/your-org/divtest-public-repo.git
 
-// $livedoc$ Navigate into the cloned directory
+# $livedoc$ Navigate into the cloned directory
 cd divtest-public-repo
-

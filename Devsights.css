@@ -11,14 +11,14 @@ Applies across all responsive breakpoints
   padding: 20px;
 }
 
-// $livedoc$ Style for the main header
+/* $livedoc$ Style for the main header */
 .header {
   font-size: 2rem;
   font-weight: bold;
   text-align: center;
 }
 
-// $livedoc$ Primary button styling
+/* $livedoc$ Primary button styling */
 .button-primary {
   background-color: #4CAF50;
   color: white;
@@ -28,7 +28,7 @@ Applies across all responsive breakpoints
   cursor: pointer;
 }
 
-// Important! This is one of the core styles for user interaction
+/* Important! This is one of the core styles for user interaction */
 .button-primary:hover {
   background-color: #45a049;
 }

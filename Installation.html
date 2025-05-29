@@ -6,95 +6,65 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #fff8f0;
+      background-color: #fffaf4;
+      color: #333;
       margin: 0;
       padding: 20px;
-      line-height: 1.6;
-    }
-
-    header {
-      background-color: #a0522d;
-      color: white;
-      padding: 20px;
-      text-align: center;
-    }
-
-    h1 {
-      margin: 0;
     }
 
     section {
-      margin-top: 30px;
       background-color: #fff;
-      padding: 20px;
       border-radius: 8px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      padding: 20px;
+      margin: 30px auto;
+      max-width: 800px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
     }
 
-    code, pre {
+    h2 {
+      color: #8b4513;
+    }
+
+    pre {
       background-color: #f4f4f4;
-      border-radius: 4px;
-      padding: 10px;
+      padding: 15px;
+      border-radius: 6px;
+      overflow-x: auto;
+    }
+
+    code {
+      font-family: Consolas, Monaco, 'Courier New', monospace;
       display: block;
       white-space: pre-wrap;
-      font-family: Consolas, monospace;
-    }
-
-    footer {
-      text-align: center;
-      margin-top: 40px;
-      font-size: 0.9em;
-      color: #777;
     }
   </style>
 </head>
 <body>
-
-<header>
-  <h1>Nutella Project Setup Guide</h1>
-  <p>Sweet and simple project onboarding 🍫</p>
-</header>
 
 <section>
   <!-- Getting-started section for the Nutella project -->
   <h2>Getting started with Nutella is easier than spreading it on toast:</h2>
   <p>This guide will help you clone the Nutella repo, install dependencies, and get the app running locally in a few simple steps.</p>
 
-  <pre><code>/* $livedoc$ multiline comment
-Getting started with Nutella project setup
-Includes cloning, installing dependencies, and running the app
-Applies to all environments
-*/
+  <pre><code class="language-bash"># $livedoc$ Getting started with Nutella project setup
+# Includes cloning, installing dependencies, and running the app
+# Applies to all environments
 
-console.log("Getting started with Nutella is easier than spreading it on toast:");
+echo "Getting started with Nutella is easier than spreading it on toast:"
 
-// $livedoc$ Clone the repository
+# $livedoc$ Clone the repository
 git clone https://github.com/YourOrg/Nutella.git
 
-// $livedoc$ Navigate to the Nutella directory
+# $livedoc$ Navigate to the Nutella directory
 cd Nutella
 
-// $livedoc$ Install dependencies (if any)
+# $livedoc$ Install dependencies (if any)
 npm install
 
-// Important! This is one of the core commands to launch the project
+# Important! This is one of the core commands to launch the project
 npm start
 </code></pre>
 </section>
 
-<section>
-  <h2>Next Steps</h2>
-  <ul>
-    <li>Explore the <code>/src</code> directory to understand the codebase</li>
-    <li>Check <code>README.md</code> for project structure details</li>
-    <li>Read the <code>CONTRIBUTING.md</code> if you’d like to help improve Nutella</li>
-  </ul>
-</section>
-
-<footer>
-  &copy; 2025 YourOrg. Built with ❤️ and Nutella.
-</footer>
-
 </body>
 </html>
-

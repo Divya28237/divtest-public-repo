@@ -1,7 +1,3 @@
-# Import me gain . third update, I'm updated! Triple Yayy!!!
-
-# Import me one more time, I'm updated! Double Yayy!!!
-# Import me again, I'm updated! Yayy!!!
 # Action authentication
 
 Actions offer different authentication schemas to accommodate various use cases. To specify the authentication schema for your action, use the GPT editor and select "None", "API Key", or "OAuth".

@@ -1,4 +1,4 @@
-# Action authentication updated 25/9/25
+Updated # Action authentication updated 25/9/25
 
 Actions offer different authentication schemas to accommodate various use cases. To specify the authentication schema for your action, use the GPT editor and select "None", "API Key", or "OAuth".
 

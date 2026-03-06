@@ -17,6 +17,7 @@
  - [Grow] Product canvases
  - [Grow] LiveDoc portfolio report
  - [Run] Auto-content import & sync
+ - [Run] Membership, Posting & Feedback
  
  # LATER
  - [Grow] Auto-content summary

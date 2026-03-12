@@ -33,3 +33,5 @@ title: Metrics for success
 [Objective] Provide a low friction method of presenting product worksheets
 - [KeyResult] Providing 2+ product canvas worksheets via markdown
 - [KeyResult] See 2 products being represented by the canvases
+- [KeyResult] Engaging with 1 internal team to understand their needs
+- [KeyResult] Onboarding members from 3 different teams
